@@ -32,8 +32,8 @@ Aquí están algunas de las tecnologías con las que trabajo regularmente:
 
 Si deseas colaborar en algún proyecto o simplemente charlar sobre tecnología, ¡no dudes en contactarme!
 
-- **Correo**: [indisardi99](indisardi99@gmail.com)
-- **LinkedIn**: [indira sardinha](https://linkedin.com/in/indira-sardinha32401029a/)
+- **Correo**: indisardi99@gmail.com
+- **LinkedIn**: https://linkedin.com/in/indira-sardinha32401029a/
 
 
 ---
